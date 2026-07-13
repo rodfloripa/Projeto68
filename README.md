@@ -401,6 +401,14 @@ community detection e role discovery resolvem problemas diferentes.
 
 # 15. Resultados Obtidos
 
+<p align="center">
+  <img src="https://github.com/rodfloripa/Projeto68/blob/main/fig1.png">
+</p>
+
+<p align="center">
+  <img src="https://github.com/rodfloripa/Projeto68/blob/main/fig2.png">
+</p>
+
 <div align="justify">
 
 O projeto normalmente evidencia padrões interessantes:
